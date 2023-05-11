@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Landingpage-test/static/css/main.b4c90ebb.css",
+    "main.js": "/Landingpage-test/static/js/main.05b182a1.js",
+    "static/js/787.d2fe918e.chunk.js": "/Landingpage-test/static/js/787.d2fe918e.chunk.js",
+    "static/media/Hero-img.svg": "/Landingpage-test/static/media/Hero-img.b51de11d80bc4a8cf4787b917f2ebc1a.svg",
+    "static/media/Img-Benefit2.svg": "/Landingpage-test/static/media/Img-Benefit2.4281a9325fe418d4b5d89a30c02ceca6.svg",
+    "static/media/Testimoni.svg": "/Landingpage-test/static/media/Testimoni.1e57e02f3a58ad416454.svg",
+    "static/media/Bank.svg": "/Landingpage-test/static/media/Bank.a5816f95b3afee698208e099e67e8327.svg",
+    "static/media/logo.svg": "/Landingpage-test/static/media/logo.7bc47f6d331be162bea4b34c38fdb479.svg",
+    "static/media/Illustrasi Right.svg": "/Landingpage-test/static/media/Illustrasi Right.18b58e88ac795ca7bf05.svg",
+    "index.html": "/Landingpage-test/index.html",
+    "static/media/search-line.svg": "/Landingpage-test/static/media/search-line.1210561e4930237db861.svg",
+    "static/media/Illustrasi Left.svg": "/Landingpage-test/static/media/Illustrasi Left.9098cde9921ca6e44ff0.svg",
+    "static/media/Star.svg": "/Landingpage-test/static/media/Star.a322c31c6dc7e01fc95f4f39303a3d47.svg",
+    "main.b4c90ebb.css.map": "/Landingpage-test/static/css/main.b4c90ebb.css.map",
+    "main.05b182a1.js.map": "/Landingpage-test/static/js/main.05b182a1.js.map",
+    "787.d2fe918e.chunk.js.map": "/Landingpage-test/static/js/787.d2fe918e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c90ebb.css",
+    "static/js/main.05b182a1.js"
+  ]
+}
